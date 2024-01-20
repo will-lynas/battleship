@@ -1,5 +1,5 @@
 [package]
-name = "battleships"
+name = "battleship"
 version = "0.1.0"
 edition = "2021"
 
